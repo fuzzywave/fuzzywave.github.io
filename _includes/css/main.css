@@ -359,7 +359,7 @@ nav ul li:hover, nav ul li.active {
 .img-screencast {
     padding: 1% 2%;
     display: inline;
-    max-width: 45%;
+    width: 45%;
     height: 100%;
     vertical-align: middle;
 }
