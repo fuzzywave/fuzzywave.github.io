@@ -16,7 +16,7 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Fuzzywave Games"
-keywords:    "fuzzywave, game, android, ios, mobile, libgdx"
+keywords:    "fuzzywave, game, android, ios, mobile, libgdx, gamedev, unity"
 description: "An independent game studio."
 source_link: "https://github.com/fuzzywave/fuzzywave.github.io"
 favicon:     #put a path like: "img/favicon.ico"
